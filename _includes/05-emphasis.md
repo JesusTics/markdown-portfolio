@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+En clase se nos indico que el lenguaje que utilizaríamos seria **Python**. Este es un *Ejemplo de como **COMBINAR** las dos maneras de escribir*
