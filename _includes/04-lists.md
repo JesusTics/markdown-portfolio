@@ -1,0 +1,3 @@
+- [ ] Escuchar musica
+- [ ] Jugar videojuegos
+- [ ] Mirar comediantes
